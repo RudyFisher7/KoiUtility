@@ -1,5 +1,0 @@
-# ninja log v5
-3	106	7416668080433943	libKoiUtility.a	d1551f38f7b6c45e
-3	391	7417450553597846	example/CMakeFiles/ObservableExample.dir/observable_example.cpp.obj	67ca41a3e7304176
-391	519	7417450554814033	example/ObservableExample.exe	755d87a0308fbc71
-3	267	7417450590249816	build.ninja	20040257d11f5276
